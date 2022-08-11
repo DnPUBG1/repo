@@ -1,0 +1,19 @@
+Package: com.ongcenh.13hud
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: @ongcenh
+Installed-Size: 368
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Conflicts: applebetas.ios.tweak.willow, es.ubikstyl.sonus12, org.fwdr.sonus, com.midkin.byebyehud, me.nepeta.flashyhud, com.lnx.aerify, com.ruler225.videohud, me.nepeta.brokenhud, com.ikilledappl3.switchhud, com.yakir.volhud
+Filename: ./DEB/com.ongcenh.13hud_1.0.1_iphoneos-arm.deb
+Size: 51682
+MD5sum: 9bc819aae9aed941e7b0fef0988b5703
+SHA1: 561d8d5678df610431408af9365b393f0876354e
+SHA256: 4e3ab09f46b75a2598c2c4c63a955c6d9c2f4aca1482f6ed27f2b1ceee039671
+SHA512: d2ed9ff983eacf740df60e4079e9c4efafc9995263d282946e2c681cd1f46c0f7ce6615303dd3850b2e5724eb91f63bc9f4651a4eccfe838ea3f9d572daabbd0
+Description: iOS 13 volume HUD dành cho iOS 11/12
+Name: 13HUD
+Author: Muirey03
+Depiction: https://ongcenh.github.io/Debinfo/13hud/?p=info
+SileoDepiction: https://ongcenh.github.io/Debinfo/13hud/?p=info
